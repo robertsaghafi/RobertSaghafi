@@ -102,7 +102,7 @@ I’m currently developing a collection of open-source tools to support the next
 ## 🤝 Let’s Connect  
 **LinkedIn:** https://www.linkedin.com/in/arobertsaghafi  
 **Medium:**medium.com/@robertsaghafi**  
-**Email:** *robtxidf@gmail.com*  
+**Email:** *robert.saghafi@aerisintelligentsystems.ai*  
 
 ---
 
