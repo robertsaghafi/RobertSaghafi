@@ -1,6 +1,6 @@
 # Hi, I'm Robert Saghafi 👋  
-### Cybersecurity Executive • UAS/C-UAS Security Architect • Strategic Advisor  
-### FAA-Certified Pilot • Autonomous Systems & Geopolitical Threat Intelligence
+### Cybersecurity Consultant • Cyber Threat Intelligence Practitioner • Strategic Advisor  
+### Pilot • Uncrewed & Autonomous Systems Cybersecurity • Geopolitical Cyber Threat Intelligence • Detection Engineering
 
 Welcome to my GitHub. I build at the intersection of **cybersecurity, autonomous systems, AI security, aviation, OSINT, and geopolitical threat intelligence**.
 
@@ -23,7 +23,7 @@ Each project is designed to be actionable, visually rich, and grounded in real-w
 
 ---
 
-## 🔬 Featured Projects (More Coming in the Near future)
+## 🔬 Featured Projects (More Coming in the Near Future)
 
 ### 🛰️ **Red Sea Houthi Drone & Missile Attack Tracker**  
 Live OSINT + AIS fusion map for tracking attacks in maritime conflict zones.  
@@ -55,26 +55,26 @@ OSINT + translation + mapping of cartel drone deployments.
 
 
 ### **📅 Current Focus Areas**
-- UAS/C-UAS threat modeling  
+- UxS CTI and threat modeling  
 - Cyber & kinetic kill-chain visualization  
 - OSINT automation for conflict zones  
 - Regulatory intelligence for autonomous systems  
 - Drone supply-chain tracking  
 - AI-driven autonomous cyber defenses  
 - C2 Link Security Checklist Generator  
-- Live UAS Incident Catalog & Dashboard  
+- Live UxS Incident Catalog & Dashboard  
 - Shahed-136 CLIP-based image classifier  
 - Airport Drone Incursion Heatmap  
 - C-UAS vendor capability matrix generator  
 
-Follow for weekly updates as ATIPP evolves.
+Follow for regular updates as ATIPP evolves.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Cyber & Autonomy:**  
-`UAS/C-UAS Security` • `Mission-Critical Architecture` • `Threat Modeling` • `CTI/OSINT` • `AI/ML Security` • `Geopolitical Risk`  
+`UxS Cybersecurity` • `Mission-Critical Architecture` • `Threat Modeling` • `CTI/OSINT` • `AI/ML Security` • `Geopolitical Risk`  
 
 **Languages & Frameworks:**  
 `Python` • `Streamlit` • `Jupyter` • `Mermaid` • `Gradio` • `Folium`  
@@ -91,9 +91,9 @@ Follow for weekly updates as ATIPP evolves.
 ---
 
 ## ✈️ About Me  
-I’m a cybersecurity executive, UAS/C-UAS security architect, and FAA-certified pilot specializing in the protection of **autonomous systems, aviation platforms, and mission-critical technologies**.
+I’m a cybersecurity entrepreneur, executive, and strategic consultant specializing in the design, evaluation, and implementation of autonomous cyber defense and mission-critical security architectures, with a focus on protecting **autonomous systems, aviation platforms, and mission-critical technologies**.
 
-My work blends **cybersecurity, autonomy, AI, geopolitics, and real-world threat intelligence** to build resilient systems that reflect how adversaries actually operate.
+My work blends **cybersecurity, autonomy, AI/ML, geopolitics, and real-world threat intelligence** to build resilient systems that reflect how adversaries actually operate.
 
 I’m currently developing a collection of open-source tools to support the next generation of cyber–autonomy defense and geopolitically-contextualized Cyber Threat Intelligence (CTI) capabilities.
 
