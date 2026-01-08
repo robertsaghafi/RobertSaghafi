@@ -1,109 +1,114 @@
-# Hi, I'm Robert Saghafi 👋  
-### Cybersecurity Consultant • Cyber Threat Intelligence Practitioner • Strategic Advisor  
-### Pilot • Uncrewed & Autonomous Systems Cybersecurity • Geopolitical Cyber Threat Intelligence • Detection Engineering
+# Hi, I'm Robert Saghafi 👋
 
-Welcome to my GitHub. I build at the intersection of **cybersecurity, autonomous systems, AI security, aviation, OSINT, and geopolitical threat intelligence**.
+**Zero Trust Security Architect • Pilot • Strategic Advisor**
 
-This space is home to the **Autonomous Threat Intelligence Portfolio Plan (ATIPP)** — a growing collection of real-world, hands-on projects exploring how cyber, autonomy, and geopolitics collide in modern conflict and critical infrastructure.
+** Data Protection Engineering • Autonomous Systems Security**
 
 ---
 
-## 🚀 What I’m Building  
+Welcome to my GitHub. I build at the intersection of **Zero Trust security architecture, autonomous systems security, agentic AI protection, data-centric security, and GRC Engineering**.
+
+This space is home to the **Zero Trust Autonomous Systems Portfolio (ZTASP)** — a growing collection of real-world, hands-on projects exploring how Zero Trust principles secure autonomous platforms, agentic AI systems, and mission-critical operations in contested environments.
+
+---
+
+## 🚀 What I'm Building
+
 My work focuses on applied research and rapid prototyping across:
 
-- **UAS/C-UAS security architecture**  
-- **AI-enabled autonomous cyber defense**  
-- **Drone warfare analytics & conflict-zone intelligence**  
-- **Geopolitical & cyber threat intelligence (CTI)**  
-- **Cyber-physical attacks & mission-security modeling**  
-- **Satellite imagery, AIS, and OSINT fusion**  
-- **Regulatory and compliance intelligence for autonomous systems**  
+- **Zero Trust architecture for autonomous systems** (aerial, maritime, ground robotics)
+- **Agentic AI security** with continuous verification and policy enforcement
+- **Data-centric security** for autonomous vehicle telemetry and AI model pipelines
+- **Supply chain security** for autonomous platforms and AI systems
+- **Privacy-by-design** frameworks for GDPR/CCPA compliance in autonomous operations
+- **Data quality and integrity** for autonomous and AI/ML operations
+- **Mission assurance** and resilience for cyber-physical systems
 
-Each project is designed to be actionable, visually rich, and grounded in real-world scenarios.
-
----
-
-## 🔬 Featured Projects (More Coming in the Near Future)
-
-### 🛰️ **Red Sea Houthi Drone & Missile Attack Tracker**  
-Live OSINT + AIS fusion map for tracking attacks in maritime conflict zones.  
-**Status:** Planned | **Tech:** Python, Streamlit, AIS APIs, Telegram OSINT
-
-### 🕸️ **Iranian Drone Parts Supply-Chain Mapper**  
-Visualizing sanctions evasion routes across global trade networks.  
-**Status:** Planned | **Tech:** Neo4j, OpenSanctions, ImportGenius, Python
-
-### 📡 **C-UAS Regulatory Intelligence Dashboard**  
-Comparative analysis of FAA, EASA, DoD, CMMC, EU AI Act requirements.  
-**Status:** Planned | **Tech:** PDF scraping, LLM table extraction, Streamlit
-
-### 🎯 **UAS/C-UAS Threat Modeling Framework**  
-A complete JSON/YAML-based schema for analyzing drone and counter-drone risks.  
-**Status:** In Progress | **Tech:** Markdown, Python
-
-### 🛰️ **Ukraine FPV Swarm Loss Estimator**  
-Scraping Oryx data → auto-classifying drone types → interactive dashboard.  
-**Status:** Planned | **Tech:** Python, LLM, Streamlit
-
-### 📍 **“Narco-Drone Watch” — Mexico Cartel Drone Incident Map**  
-OSINT + translation + mapping of cartel drone deployments.  
-**Status:** Planned | **Tech:** Telegram API, Folium, LLMs
+Each project is designed to be **actionable, enterprise-ready, and grounded in NIST 800-207, CISA Zero Trust Maturity Model, and DoD Zero Trust Strategy**.
 
 ---
 
-## 📘 AUTONOMOUS THREAT INTELLIGENCE PORTFOLIO PLAN (ATIPP)
+## 🔬 Featured Projects
 
+### 🔐 Zero Trust Data Lineage Tracker for Agentic AI Pipelines
+Real-time data provenance tracking across AI model training with cryptographic verification and policy enforcement.  
+**Status:** In Progress | **Tech:** Python, Neo4j, FastAPI, Streamlit, HashiCorp Vault
 
-### **📅 Current Focus Areas**
-- UxS CTI and threat modeling  
-- Cyber & kinetic kill-chain visualization  
-- OSINT automation for conflict zones  
-- Regulatory intelligence for autonomous systems  
-- Drone supply-chain tracking  
-- AI-driven autonomous cyber defenses  
-- C2 Link Security Checklist Generator  
-- Live UxS Incident Catalog & Dashboard  
-- Shahed-136 CLIP-based image classifier  
-- Airport Drone Incursion Heatmap  
-- C-UAS vendor capability matrix generator  
+### 🎯 Autonomous Systems C2 Zero Trust Policy Simulator
+Policy-as-code framework for testing Zero Trust access controls in autonomous systems command-and-control environments.  
+**Status:** In Progress | **Tech:** Python, NetworkX, Mermaid, PyYAML
 
-Follow for regular updates as ATIPP evolves.
+### 📊 Zero Trust Maturity Assessment Tool for Autonomous Systems
+Automated assessment framework evaluating ZT maturity for autonomous operations (aligned with CISA ZT Maturity Model).  
+**Status:** Planned | **Tech:** Python, Streamlit, Plotly, ReportLab
+
+### 🤖 Agentic AI Security Monitor with Zero Trust Verification
+Real-time monitoring system for agentic AI with behavioral anomaly detection and policy enforcement layer.  
+**Status:** Planned | **Tech:** Python, OpenAI/Claude APIs, Prometheus, Grafana
+
+### 🛡️ Zero Trust Data Protection Toolkit for Autonomous Vehicle Telemetry
+Comprehensive data protection framework implementing encryption-in-use, tokenization, and dynamic data masking for telemetry streams.  
+**Status:** Planned | **Tech:** Python, PyCryptodome, HashiCorp Vault, Apache Kafka
+
+---
+
+## 📘 ZERO TRUST AUTONOMOUS SYSTEMS PORTFOLIO (ZTASP)
+
+### 📅 Current Focus Areas
+
+- Zero Trust architecture design and implementation
+- Data-centric security for autonomous systems
+- Agentic AI security and governance (AI TRiSM)
+- Supply chain security for autonomous platforms
+- Privacy-by-design frameworks (PbD, PETs)
+- Continuous verification and microsegmentation
+- Mission assurance for cyber-physical systems
+
+Follow for regular updates as ZTASP evolves.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Cyber & Autonomy:**  
-`UxS Cybersecurity` • `Mission-Critical Architecture` • `Threat Modeling` • `CTI/OSINT` • `AI/ML Security` • `Geopolitical Risk`  
+**Zero Trust & Data Protection:**  
+NIST 800-207 • Data-Centric Security • Microsegmentation • Continuous Verification • Encryption-in-Use • Tokenization • DLP • Privacy-by-Design
+
+**Autonomous & Agentic Systems:**  
+Autonomous Systems Security • Agentic AI Security • Mission-Critical Architecture • Cyber-Physical Resilience • C2 Link Security
 
 **Languages & Frameworks:**  
-`Python` • `Streamlit` • `Jupyter` • `Mermaid` • `Gradio` • `Folium`  
+Python • FastAPI • Streamlit • Neo4j • Apache Kafka • HashiCorp Vault • PostgreSQL
 
 **AI & Data:**  
-`OpenAI/Groq/Claude` • `CLIP` • `YOLO` • `Whisper` • `Neo4j` • `Pandas` • `Geopandas`  
+OpenAI/Claude APIs • scikit-learn • Pandas • Model Integrity Verification • Data Provenance Tracking
 
-**OSINT & Geospatial:**  
-`Telegram API` • `Sentinel Hub` • `AIS Data` • `OpenStreetMap`  
+**Data Governance & Standards:**  
+ISO 8000 (Data Quality) • ISO/IEC 38505 (Data Governance) • DCAM (Data Management Capability Assessment Model) • DAMA-DMBOK • GDPR Article 5 (Data Quality Principles) • NIST AI RMF (Data Management)
 
 **Compliance & Governance:**  
-`NIST 800-53/171/172` • `CMMC` • `DoD RMF` • `ISO 27001` • `ISO/IEC 42001` • `EU AI Act` • `FAA/ITAR/EAR`  
+NIST 800-53/171/172 • CISA ZT Maturity Model • DoD Zero Trust Strategy • CMMC 2.0 • ISO 27001/27701 • ISO/IEC 42001 • EU AI Act • NIST AI RMF • GDPR/CCPA • FAA/ITAR/EAR
 
 ---
 
-## ✈️ About Me  
-I’m a cybersecurity entrepreneur, executive, and strategic consultant specializing in the design, evaluation, and implementation of autonomous cyber defense and mission-critical security architectures, with a focus on protecting **autonomous systems, aviation platforms, and mission-critical technologies**.
+## ✈️ About Me
 
-My work blends **cybersecurity, autonomy, AI/ML, geopolitics, and real-world threat intelligence** to build resilient systems that reflect how adversaries actually operate.
+I'm a **cybersecurity entrepreneur, executive, and strategic consultant** specializing in **Zero Trust architecture design and implementation** for organizations operating **autonomous systems, agentic AI platforms, and mission-critical technologies**.
 
-I’m currently developing a collection of open-source tools to support the next generation of cyber–autonomy defense and geopolitically-contextualized Cyber Threat Intelligence (CTI) capabilities.
+With over 20 years of cybersecurity leadership across **financial services, aerospace, defense, aviation, and energy**, I help organizations transition from perimeter-based defenses to mature, data-centric Zero Trust programs that protect high-value assets in contested and autonomous environments.
+
+My work blends **Zero Trust principles, data protection engineering, autonomous systems security, agentic AI governance, and geopolitical threat intelligence** to build resilient architectures that reflect how adversaries actually operate.
+
+As an **FAA-certified pilot, flight instructor, and a UxS system engineer**, I understand the critical intersection of physical and digital safety—enabling me to design security solutions for flight-critical systems, autonomous aircraft operations, and space-based assets.
+
 
 ---
 
-## 🤝 Let’s Connect  
+## 📫 Let's Connect
+
+I partner with forward-thinking organizations that understand cybersecurity is not just protection—it is an enabler of innovation, trust, and mission success.
+
+If your work involves **Zero Trust architecture, autonomous systems, agentic AI, data protection, or high-risk operational environments**, I'd welcome a conversation.
+
 **LinkedIn:** https://www.linkedin.com/in/arobertsaghafi  
-**Medium:**medium.com/@robertsaghafi**  
+**Medium:** medium.com/@robertsaghafi  
 **Email:** *robert.saghafi@aerisintelligentsystems.ai*  
-
----
-
-### **“Mastery is built at the edge where disciplines collide.”**
