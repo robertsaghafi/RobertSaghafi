@@ -1,93 +1,158 @@
-# Hi, I'm Robert Saghafi 👋  
-### Sovereign AI, Security & Governance Leader  
-Securing Agentic AI, Autonomous Systems, and Enterprise Data at Scale  
+# Robert Saghafi
+## Architect of Secure & Resilient Data & AI Security Programs
 
-I am a security and governance executive with 17+ years of experience leading global cybersecurity, data protection, and Zero Trust programs across financial services, aviation, and A&D.
+I build the **secure and resilient data and AI security programs**
+that allow regulated businesses to innovate with confidence.
 
-My work centers on **Sovereign AI and data governance** — architecting security and control frameworks that enable organizations to adopt agentic AI and LLM-enabled workflows while preserving jurisdictional control, regulatory alignment, and measurable risk reduction.
+As organizations transition to AI-native operations, traditional
+security perimeters have proven insufficient and dissipated. I am
+a seasoned security practitioner and executive advisor with over
+18 years of experience securing high-stakes environments across
+**Global Finance and Aviation** (ex-Northern Trust, IBM,
+Wells Fargo).
 
-I design governance-driven security models that translate complex risk into operational standards, executive reporting, and scalable control patterns across hybrid and multi-cloud environments.
+I specialize at the critical intersection of **Data Protection,
+AI Security, and Governance** — transforming complex technical
+risk into scalable, compliant, and defensible enterprise assets.
 
 ---
 
 ## 🛡️ Core Domains
 
-### AI Governance, Sovereign Data & Agentic AI Security
-Design and operationalize AI governance frameworks aligned to NIST AI RMF and ISO/IEC 42001.  
-Embed sovereign AI principles, including data residency integrity, jurisdiction-aware controls, accountable model lifecycle oversight, and secure agent orchestration.  
-Lead AI threat modeling and risk assessments addressing prompt injection, data leakage, model abuse, and AI supply chain exposure.
+### AI Security & Governance Programs
+- Design and operationalize AI governance frameworks aligned
+  to **NIST AI RMF, ISO/IEC 42001, and Google SAIF**
+- Architect value-driven security programs addressing LLM
+  vulnerabilities, prompt injection, non-human identity, and
+  AI supply chain risks
+- Lead AI threat modeling and risk assessments for agentic
+  and LLM-enabled workflows
+- Embed sovereign AI principles: data residency integrity,
+  jurisdiction-aware controls, and accountable model lifecycle
+  oversight
 
-### Enterprise Data Protection & Architecture
-Define enterprise data security standards and Security-by-Design roadmaps.  
-Align Zero Trust maturity with Cloud Center of Excellence objectives to ensure identity-centric protection across hybrid and multi-cloud ecosystems.  
-Build operating models spanning discovery, classification, DSPM/DLP monitoring, encryption strategy, and board-level KPIs/KRIs.
+### Data Protection & Privacy (DPO)
+- Build defensible data protection strategies spanning
+  discovery, DSPM, DLP, and sensitive data governance
+- Embed sovereign data principles preserving jurisdictional
+  control and data residency
+- Define KPIs/KRIs enabling executive decision-making and
+  audit readiness
 
-### Cloud Risk & Zero Trust Strategy
-Architect identity-first security across AWS, Azure, GCP, and OCI.  
-Translate architectural intent into reference patterns, enforceable standards, and measurable maturity roadmaps that reduce breach exposure while accelerating cloud adoption.
+### Zero Trust Architecture & Cloud GRC
+- Architect identity-centric security across AWS, Azure,
+  GCP, and OCI
+- Translate architectural intent into enforceable standards,
+  reference patterns, and measurable maturity roadmaps
+- Reduce breach exposure while accelerating cloud adoption
 
-### Executive Risk Translation & Compliance Governance
-Trusted advisor to Board committees, Legal, and Privacy teams.  
-Convert regulatory requirements, including NYDFS 500, GDPR, DORA, GLBA, SOC 2, and ISO 27001, into actionable controls and executive-ready reporting.  
-Evaluate third-party AI and cloud risk and integrate findings into enterprise governance frameworks.
+### Executive Advisory & Board Reporting
+- Trusted advisor to Boards, CISOs, Legal, and Privacy teams
+- Convert regulatory requirements (NYDFS 500, GDPR, DORA,
+  GLBA, SOC 2, ISO 27001, EU AI Act) into actionable controls
+  and board-ready reporting
+- Evaluate third-party AI and cloud risk and integrate
+  findings into enterprise governance frameworks
 
 ---
 
 ## 💻 Technical Stack & Frameworks
 
-**AI and ML Security:**  
-NIST AI RMF, MITRE ATLAS, OWASP Top 10 for LLMs, Azure AI Foundry  
-
-**Data & Cloud Security:**  
-Microsoft Purview, BigID, Wiz, Zscaler, DSPM, CSPM, Snowflake, OCI  
-
-**Automation & Engineering:**  
-Python, Claude Code, Cursor, n8n, Power Automate, Workato  
-
-**Governance Platforms:**  
-ServiceNow GRC, RSA Archer, ISO/IEC 27001, SOC 2, ITIL v4  
+| Domain                  | Tools & Frameworks                                                        |
+|-------------------------|---------------------------------------------------------------------------|
+| **AI & ML Security**    | **NIST AI RMF, Google SAIF, Microsoft AI Risk Assessment, MITRE ATLAS, OWASP LLM Top 10, ISO/IEC 42001, EU AI Act** |
+| **Sovereign AI & Data** | **UAE Charter for AI (2024), Bahrain AI Law (2024), Brazil AI Bill (2108/23) & LGPD, EU Data Act & Gaia-X Sovereignty Standards, Panama Law 81 (Data Protection), Data Residency & Sovereignty Architecture** |
+| **Data & Cloud Security**| Microsoft Purview, BigID, Wiz, Zscaler, DSPM, CSPM, Snowflake            |
+| **GRC Engineering**     | **Policy-as-Code, Automated Control Testing, AI Inventory Management, GRC Automation (Python/API), ServiceNow GRC, RSA Archer** |
+| **Cloud Platforms**     | AWS, Azure, GCP, OCI                                                      |
 
 ---
 
 ## 🚀 Current Focus Areas
 
-**AI Threat Modeling for Agentic Systems**  
-Developing reusable risk patterns for LLM and agentic workflows with emphasis on sovereign control and governance by design.
+**Sovereign AI & Enterprise Autonomy**
+Developing the security and governance programs that allow
+enterprises to deploy and scale autonomous AI systems without
+surrendering jurisdictional control, data sovereignty, or
+regulatory alignment. Combines sovereign AI principles
+(data residency, jurisdiction-aware controls, model
+accountability) with enterprise autonomy frameworks
+(agentic workflow governance, non-human identity controls,
+and resilient oversight models) — ensuring that as
+enterprises scale AI-native operations, autonomy and
+compliance move forward together, not in opposition.
 
-**Autonomous Systems Security Engineering**  
-Researching security-by-design for uncrewed and autonomous systems with focus on data integrity, control assurance, and operational resilience.
+**Sovereign Data Governance for AI Workflows**
+Architecting integrated data security and governance models
+that enforce least privilege, data minimization, and
+classification-driven access controls across multi-step
+autonomous workflows. Combines data protection engineering
+(DSPM, DLP, encryption, residency controls) with governance
+program design (policy frameworks, accountability structures,
+and audit-ready operating models) to ensure that sensitive
+data remains compliant, sovereign, and defensible at every
+stage of the AI pipeline.
 
-**Sovereign Data Governance for AI Workflows**  
-Architecting dynamic access governance models ensuring least privilege, data minimization, and accountable task execution in multi-step autonomous environments.
+**Autonomous Systems Security Engineering**
+Researching security-by-design for uncrewed and autonomous
+systems with focus on data integrity, control assurance, and
+operational resilience. Applying aviation-grade safety
+protocols and high-integrity oversight models to the next
+generation of AI-native and cyber-physical systems.
 
 ---
 
-## 📈 Selected Impact Themes
+## 📈 Selected Impact
 
-**Zero Trust Transformation**  
-Led enterprise maturity roadmaps for Tier 1 financial institutions, reducing preventable breach exposure by over 20 percent.
-
-**Enterprise Data Risk Reduction**  
-Matured DLP and classification programs achieving 40 percent measurable reduction in sensitive data exposure.
-
-**Secure GenAI Enablement**  
-Enabled enterprise rollout of Microsoft Copilot and GenAI tools while maintaining GLBA and GDPR alignment and executive oversight.
+| Program                        | Outcome                                                                                                                              |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **Zero Trust Transformation**  | Led enterprise maturity roadmaps for Tier 1 financial institutions, reducing preventable breach exposure by 20%+                     |
+| **Enterprise Data Risk Reduction** | Matured DLP and classification programs achieving 40% measurable reduction in sensitive data exposure                           |
+| **Secure GenAI Enablement**    | Directed security and governance for a 32,000-user AI platform rollout at Northern Trust, managing a $3.6M budget to ensure GLBA and GDPR alignment |
 
 ---
 
-## 🤝 Collaboration
+## 🔬 Innovation & Research
 
-I am open to strategic advisory, AI security research, and open source governance initiatives.
+- **Patent Pending:** Sensor-fusion data integrity for
+  autonomous systems — reflecting a focus on trustworthy
+  autonomy and resilient system design
+- **MS in Uncrewed & Autonomous Systems** — Embry-Riddle
+  Aeronautical University (in progress)
+- Active contributor to open source avionics and autonomous
+  flight projects including **PX4**
 
-**Consulting:** Sovereign AI governance, enterprise AI security strategy, Zero Trust architecture  
-**Research:** Security for autonomous and uncrewed systems  
-**Advisory:** GRC automation, data protection program maturity  
+---
 
+## 🤝 Advisory & Consulting
 
-[LinkedIn](https://www.linkedin.com/in/arobertsaghafi/) | [About.me](https://about.me/arsaghafi)
+I partner with executives who want security to **accelerate**
+AI adoption rather than block it. I provide strategic advisory
+on:
 
-If your work involves sovereign AI, agentic systems, Zero Trust architecture, or high-risk regulated environments, I welcome a conversation.
+- **AI Security & Governance Programs** — NIST AI RMF,
+  ISO/IEC 42001, EU AI Act implementation
+- **Data Protection & Privacy** — Fractional DPO, GDPR/CCPA
+  alignment, sovereign data strategy
+- **Zero Trust Architecture** — Identity-centric security,
+  cloud GRC, non-human identity
+- **Executive Advisory** — Board reporting, AI threat
+  modeling, risk-to-business translation
 
-**LinkedIn:** https://www.linkedin.com/in/arobertsaghafi  
-**Medium:** medium.com/@robertsaghafi  
-**Email:** *robert.saghafi@aerisintelligentsystems.ai*  
+If your organization is navigating **Shadow AI**, building a
+**sovereign data strategy**, or seeking a fractional
+**Head of AI Governance** or **Data Protection Officer**,
+I welcome the conversation.
+
+---
+
+## 📬 Let's Connect
+
+| Platform   | Link                                        |
+|------------|---------------------------------------------|
+| 💼 LinkedIn | [linkedin.com/in/robertsaghafi-ciso](https://www.linkedin.com/in/robertsaghafi-ciso) |
+| 🌐 About.me | [https://robertsaghafi.com] |
+| ✍️ Medium   | [https://medium.com/@robertsaghafi] |
+
+> *"As enterprises scale AI-native operations, autonomy and
+> compliance must move forward together — not in opposition."*
