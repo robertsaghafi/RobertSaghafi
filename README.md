@@ -9,7 +9,7 @@ I build data and AI security products and programs that regulated enterprises ca
 
 With **17+ years** at the intersection of **Data Infrastructure**, **AI Systems**, and **Cybersecurity** across financial services and aviation, I bring a perspective most AI product managers can't replicate: I've seen what breaks in production, what fails audit, what gets exploited, and what stalls adoption. I build — and deliver — to avoid all four.
 
-**Principal at [AERIS Intelligent Systems](https://robertsaghafi.com)** | Ex–Northern Trust · Wells Fargo · USAA · IBM · American Airlines
+**Principal at [AERIS Intelligent Systems](https://aerisintelligentsystems.ai)** | Ex–Northern Trust · Wells Fargo · USAA · IBM · American Airlines
 
 ---
 
