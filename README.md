@@ -1,8 +1,6 @@
 # Robert Saghafi
 ### Data, AI & Cybersecurity | Product & Program Leader | Principal, AERIS
 
-> *"As enterprises scale AI-native operations, security and governance must be engineered in from the start — not bolted on after the fact."*
-
 ---
 
 ## 👋 About Me
